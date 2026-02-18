@@ -134,7 +134,7 @@ The system follows a Client-Server Architecture where:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/AgroConnect.git
+Github repository : https://github.com/vimansadissanayake/-AgroConnect-Updated-Project-Digital-Agriculture-Platform.git
 
 2️⃣ Move project to XAMPP htdocs folder
 
